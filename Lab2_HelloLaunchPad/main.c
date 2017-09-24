@@ -1,5 +1,3 @@
-// This is your first program to run on the LaunchPad
-// You will run this program without modification as your Lab 2
 // If the left switch SW1 is 
 //      not pressed the LED toggles blue-red
 //      pressed the LED toggles blue-green
@@ -10,6 +8,7 @@
 // Lab2_HelloLaunchPad, Input from PF4, output to PF3,PF2,PF1 (LED)
 // Authors: Daniel Valvano, Jonathan Valvano and Ramesh Yerraballi
 // Date: January 15, 2016
+
 
 // LaunchPad built-in hardware
 // SW1 left switch is negative logic PF4 on the Launchpad
